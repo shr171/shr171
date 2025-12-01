@@ -6,7 +6,7 @@
 
 
 
-Hey! I'm Shubham, welcome to my GitHub page.
+**Hey! I'm Shubham, welcome to my GitHub page.**
 
 I design and build web apps , cross platform mobile apps and scripts for automation .
 
@@ -16,7 +16,7 @@ My main tech stack is Next.js, typescript, tailwind, better-auth and postgres fo
 
 I use Expo/React Native for cross platform app development.
 
-I’ve got a buch of scripts, automation and internal tooling which are written in python and golang.
+I’ve got a bunch of scripts, automation and internal tooling which are written in python and golang.
 
 Hobbies: anime, gaming, building things !
 
